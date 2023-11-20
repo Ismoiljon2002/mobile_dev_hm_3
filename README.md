@@ -1,8 +1,13 @@
-# hw3
-
-A new Flutter project.
+# Homework 3.
 
 ## Getting Started
+
+### 1. Open terminal in your computer
+
+### 2. Write `git clone https://github.com/Ismoiljon2002/mobile_dev_hm_3.git`
+
+### 3. Run the project with `flutter run` command in terminal
+
 
 This project is a starting point for a Flutter application.
 
